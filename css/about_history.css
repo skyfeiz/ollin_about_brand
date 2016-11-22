@@ -1,0 +1,77 @@
+.fr{
+    float: right;
+}
+.ft_Entitle{
+    font-size: 0.28rem;
+    color: #0066b3;
+    font-family: "DIN";
+    text-align: center;
+    margin-top: 0.28rem;
+    letter-spacing: -1px;
+}
+.ft_Cntitle{
+    text-align: center;
+    font-size: 0.24rem;
+    color: #000000;
+    font-weight: normal;
+    font-family: "微软雅黑";
+    margin-left: 0.1rem;
+    margin-bottom: -0.04rem;
+}
+.historyAll{
+    margin-bottom: 0.35rem;
+}
+.time_step{
+    width: 100%;
+}
+.time_axis{
+    width: 0.14rem;
+    height: 1.56rem;
+    background-image: url(../images/about_brand/time-axis.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.time_step:first-child .time_axis{
+    background-image: url(../images/about_brand/time-axis0.png);
+}
+.time_step:last-child{
+    height: 1.36rem;
+    overflow: hidden;
+}
+.time_step:last-child .right_content{
+    border:none;
+}
+.right_content{
+    width: 3.29rem;
+    padding-bottom: 0.2rem;
+    box-sizing: border-box;
+    border-bottom: 1px solid #959595;
+}
+.img_box img{
+    width: 1.29rem;
+    height: 0.9rem;
+}
+.history_time{
+    font-size: 0.21rem;
+    line-height: 0.45rem;
+    color: #0066b3;
+    font-weight: bold;
+    padding-left: 0.05rem;
+}
+.history_intr{
+    width: 1.85rem;
+    font-size: 0.12rem;
+    line-height: 1.5;
+    margin-top: -0.03rem;
+}
+.loadmore{
+    width: 100%;
+    height: 0.4rem;
+    color: #fff;
+    background-color: #0066b3;
+    text-align: center;
+    line-height: 0.4rem;
+    font-size: 0.14rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.3rem;
+}

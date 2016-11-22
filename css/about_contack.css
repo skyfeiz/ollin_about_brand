@@ -1,0 +1,61 @@
+.ft_Entitle{
+	font-size: 0.28rem;
+	color: #0066b3;
+	font-family: "DIN";
+	text-align: center;
+	margin-top: 0.28rem;
+	letter-spacing: -1px;
+}
+.ft_Cntitle{
+	text-align: center;
+	font-size: 0.24rem;
+	color: #000000;
+	font-weight: normal;
+	font-family: "微软雅黑";
+	margin-left: 0.1rem;
+	margin-bottom: 0.05rem;
+}
+.con_main p{
+	font-size: 0.16rem;
+	line-height: 0.25rem;
+	letter-spacing: 1px;
+}
+.map_address{
+	width: 100%;
+	margin:0.05rem 0 0.075rem 0;
+}
+.con_main p a{
+	color: #404040;
+}
+.web_address{
+	margin-bottom: 0.15rem;
+}
+.con_code{
+	margin-bottom: 0.25rem;
+}
+.code_wenxin,.code_wenbo{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+.con_code img{
+	width: 1.33rem;
+	height: 1.315rem;
+}
+.wexin_logo,.webo_logo{
+	width: 0.2rem;
+	height: 0.16rem;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	margin: 0.12rem auto 0;
+}
+.wexin_logo{
+	background-image: url(../images/about_brand/wexin_logo.jpg);
+}
+.webo_logo{
+	background-image: url(../images/about_brand/webo_logo.jpg);
+}
+.con_code .code_name{
+	font-size: 0.12rem;
+	line-height: 0.21rem;
+}
